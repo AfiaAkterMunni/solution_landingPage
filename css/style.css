@@ -1,0 +1,90 @@
+
+#header{
+	background: url('../img/bg.jpg') no-repeat;
+	background-size: 100% 100%;
+}
+
+#header .dark-overlay{
+	background: rgba(45, 63, 172, 0.7);
+	background-size: 100% 100%;
+	padding: 250px 0px;
+}
+#header a{
+	border-radius: 20px;
+}
+#header a:hover{
+	color: #cc0000;
+}
+
+#homeIcon .fa{
+	font-size: 50px;
+	color: #2D3FAC;
+}
+#home-video{
+	background: url('../img/bus.jpg') no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	min-height: 250px;
+	position: relative;
+}
+#home-video a{
+	border: 10px solid rgba(255, 0, 0, 0);
+	box-shadow: 0 0 0 2pt blue;
+}
+#home-video .dark-overlay{
+	background: rgba(45, 63, 172, 0.7);
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top:0;
+	left: 0;
+}
+
+#home-video a{
+	font-size: 20px;
+}
+#Strategy .fa{
+	font-size: 50px;
+	color: #2D3FAC; 
+}
+
+#Strategy p{
+	color: #2D3FAC; 
+}
+
+#infoSection a{
+	border-radius: 20px;
+}
+
+#infoSection a:hover{
+	color: #cc0000; 
+}
+
+#footer{
+	background: url('../img/footer.jpg') no-repeat;
+	background-size: 100% 100%;
+	height: 450px;
+}
+
+.dark-overlay-footer{
+	background: rgba(45, 63, 172, 0.7);
+	width: 100%;
+	height: 100%;
+}
+#footer .fa{
+	background: #fff;
+	color: #2D3FAC;
+	padding:5px;
+	font-size: 28px;
+	border-radius: 5px;
+}
+.head{
+	padding: 16px 10px;
+}
+li:hover{
+	color:green;
+}
+#infoSection a:hover{
+	color: white;
+}
